@@ -71,7 +71,7 @@ disease-surveillance-dashboard/
 ├── data/
 │   └── surveillance.db         # SQLite relational database (Case logs & Inventory)
 │
-└── assets/
+└── screenshots/
     └── dashboard_preview.png   # Dashboard UI preview screenshot
 
 ## ⚙️ Installation & Local Setup
