@@ -15,7 +15,7 @@ A proactive early-warning intelligence platform designed for Public Health Offic
 ### 3. Supply Chain & Inventory Alert Panel
 ![Inventory Panel](screenshots/dashboard3.png)
 
-> **Live Interactive Demo:** *[Insert Streamlit Cloud Link Here]*
+> **Live Interactive Demo:** [Launch Dashboard](https://disease-surveillance-dashboard-8.streamlit.app/)
 
 ---
 
