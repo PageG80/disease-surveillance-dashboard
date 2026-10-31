@@ -84,7 +84,7 @@ To run this dashboard locally on your machine:
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/PageG80/disease-surveillance-dashboard.git](https://github.com/PageG80/disease-surveillance-dashboard.git)
+git clone https://github.com/PageG80/disease-surveillance-dashboard.git
 cd disease-surveillance-dashboard
 ```
 
