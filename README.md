@@ -71,16 +71,20 @@ disease-surveillance-dashboard/
 ├── data/
 │   └── surveillance.db         # SQLite relational database (Case logs & Inventory)
 │
-└── screenshots/
-    └── dashboard_preview.png   # Dashboard UI preview screenshot
+├── screenshots/
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   └── dashboard3.png   # Dashboard UI preview screenshot
+
 
 ## ⚙️ Installation & Local Setup
 
 To run this dashboard locally on your machine:
 
 1. **Clone the repository:**
+
 ```bash
-git clone https://github.com/PageG80/disease-surveillance-dashboard.git
+git clone [https://github.com/PageG80/disease-surveillance-dashboard.git](https://github.com/PageG80/disease-surveillance-dashboard.git)
 cd disease-surveillance-dashboard
 ```
 
