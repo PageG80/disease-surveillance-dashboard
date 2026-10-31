@@ -75,7 +75,7 @@ disease-surveillance-dashboard/
 │   ├── dashboard1.png
 │   ├── dashboard2.png
 │   └── dashboard3.png   # Dashboard UI preview screenshot
-
+```
 
 ## ⚙️ Installation & Local Setup
 
